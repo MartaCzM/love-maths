@@ -190,16 +190,16 @@ body {
         height: 50px;
         font-size: 1.5rem;
     }
-
+                                                                                           
     .btn--big::after {
         font-size: 0.6rem;
         left: -0.7rem;
-    }
+    }                                                                                              
 
     .question-area {
         padding: 10% 0;
-        width: 100%;
-    }
+        width: 100%;               
+    }              
 
     .question-area span {
         padding: 0;
